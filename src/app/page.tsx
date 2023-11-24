@@ -1,7 +1,3 @@
-import { globalStyles } from "@/styles/globals"
-
-globalStyles()
-
 
 export default function Home() {
   return (
